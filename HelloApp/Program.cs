@@ -6,7 +6,7 @@ namespace HelloApp
     {
         public static void GreetBlack()
         {
-            Console.WriteLine("hello black");
+            Console.WriteLine("hello black"); //vse klassno
         }
         public static void GreetWhite()
         {
